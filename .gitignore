@@ -8,6 +8,7 @@ __pycache__/
 
 # unnecessary to have in github
 latestVersion.txt
+config.json
 .DS_Store
 
 # Distribution / packaging
@@ -106,3 +107,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# VS Code
+.vscode
